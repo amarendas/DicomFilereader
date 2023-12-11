@@ -1,0 +1,58 @@
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.exe
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.dll.config
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.deps.json
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.runtimeconfig.json
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\DicomFileReader.pdb
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\EvilDICOM.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\source\repos\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.AssemblyReference.cache
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.dll.config
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.AssemblyInfoInputs.cache
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.AssemblyInfo.cs
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.CoreCompileInputs.cache
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.CopyComplete
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.dll
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\refint\DicomFileReader.dll
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.pdb
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\DicomFileReader.genruntimeconfig.cache
+D:\source\repos\DicomFileReader\obj\Debug\net7.0\ref\DicomFileReader.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.exe
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.dll.config
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.deps.json
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.runtimeconfig.json
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\DicomFileReader.pdb
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\EvilDICOM.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.AssemblyReference.cache
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.SuggestedBindingRedirects.cache
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.dll.config
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.AssemblyInfoInputs.cache
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.AssemblyInfo.cs
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.CoreCompileInputs.cache
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.csproj.CopyComplete
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\refint\DicomFileReader.dll
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.pdb
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\DicomFileReader.genruntimeconfig.cache
+D:\A P Das\Repository\vs\DicomFileReader\DicomFileReader\obj\Debug\net7.0\ref\DicomFileReader.dll
